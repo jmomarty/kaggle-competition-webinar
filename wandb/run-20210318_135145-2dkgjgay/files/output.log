@@ -1,0 +1,9 @@
+No. Files in Train: 0 
+No. Files in Test: 0 
+Total Sites (metadata): 0
+Rows and Columns in train dataset: (300000, 32)
+Rows and Columns in test dataset: (200000, 31)
+Missing values in train dataset: 0
+Missing values in test dataset: 0
+Propotion of target variable: 0 is 0.73513
+Propotion of target variable: 1 is 0.26487

@@ -1,0 +1,19 @@
+{
+    "os": "macOS-10.15.7-x86_64-i386-64bit",
+    "python": "3.9.0",
+    "heartbeatAt": "2021-03-18T12:51:50.290008",
+    "startedAt": "2021-03-18T12:51:45.546234",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/Users/work/Library/Jupyter/runtime/kernel-717a2aa5-ab6d-4647-a58c-1cf4324c2b52.json"
+    ],
+    "state": "running",
+    "program": "Untitled.ipynb",
+    "root": "/Users/work/Documents/code/kaggle-competition-webinar",
+    "host": "jean-marcs-macbook-air.home",
+    "username": "work",
+    "executable": "/Users/work/.local/share/virtualenvs/kaggle-competition-webinar-hXEaTUCF/bin/python"
+}
